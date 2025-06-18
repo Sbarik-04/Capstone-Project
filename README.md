@@ -43,7 +43,8 @@ CREATE TABLE `feedbacks` (
   `comments` TEXT,
   `submitted_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-⚙️ Running the Project
+```
+**Running the Project**
 Install XAMPP
 
 Start Apache and MySQL
